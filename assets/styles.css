@@ -11,12 +11,30 @@ section {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    
 }
 
-@media screen and (max-width: 768px) {
-    section {
-        padding: 10px;
-        margin: 5px;
-        flex-direction: column;
+.welcome-box {
+    width: 300px;
+    padding: 20px;
+    background-color: lightblue;
+    border: 1px solid blue;
+    border-radius: 5px;
+    text-align: center;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: none
+
+   /* @media (max-width: 768px) and (orientation: portrait) {
+        section {
+            padding: 10px;
+            margin: 5px;
+            flex-direction: column;
+            font-family: Arial, sans-serif;
+        }
     }
-}
+        
+    }
+} /
