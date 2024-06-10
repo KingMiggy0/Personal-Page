@@ -14,6 +14,28 @@ section {
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
+/* Container for aligning image and paragraph in the About section */
+.about-container {
+    display: flex;
+    align-items: flex-start;
+}
+
+/* Style the image inside the About section */
+.about-container img {
+    margin-right: 20px;
+    border: 1px solid gray;
+    max-width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+
+/* Style the paragraph inside the About section */
+.about-container p {
+    margin: 0;
+    flex: 1;
+}
+
+/* Style the welcome box */
 .welcome-box {
     width: 300px;
     padding: 20px;
@@ -26,6 +48,7 @@ section {
     left: 50%;
     transform: translate(-50%, -50%);
     display: none
+}
 
    /* @media (max-width: 768px) and (orientation: portrait) {
         section {
