@@ -31,6 +31,28 @@ To run this project locally, follow these steps:
 - **Viewing Projects:** Navigate to the Projects section to see a list of projects with descriptions and links.
 - **Contacting Me:** Use the contact form or the provided contact information to get in touch.
 
+
+## Reources 
+
+**HTML and CSS:**
+
+- [MDN Web Docs - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [MDN Web Docs - CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
+- [W3Schools - CSS Tutorial](https://www.w3schools.com/css/)
+
+**JavaScript:**
+
+- [MDN Web Docs - JavaScript Basics](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [W3Schools - JavaScript Tutorial](https://www.w3schools.com/js/)
+- [JavaScript.info - The Modern JavaScript Tutorial](https://javascript.info/)
+
+**General Web Development:**
+
+- [freeCodeCamp - Responsive Web Design Certification](https://www.freecodecamp.org/learn/)
+- [Codecademy - Learn HTML & CSS](https://www.codecademy.com/learn/learn-html-css)
+- [Coursera - HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+
 ## Contact
 
 You can reach me through the following channels:
